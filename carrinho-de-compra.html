@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carrinho de Compras</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/styles.css.map">
+    <link rel="stylesheet" href="css/styles2.css">
+
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      .mensagem {
+      display: none;
+      color: white;
+      background-color: #4CAF50;
+      padding: 15px;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+
+      .mensagem.mostrar {
+      display: block;
+    }
+  </style>
+  </head>
+  <body>
+    <header>
+      <span>Carrinho de compras <b>G+ Electronics</b></span>
+    </header>
+    <main>
+      <div class="page-title">Seu Carrinho</div>
+      <div class="content">
+        <section>
+          <table>
+            <thead>
+              <tr>
+                <th>Produto</th>
+                <th>Preço</th>
+                <th>Quantidade</th>
+                <th>Total</th>
+                <th>-</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <div class="product">
+                    <img src="img/carrinho/controle-ps5.jpg" alt="" />
+                    <div class="info">
+                      <div class="name">Controle de Ps5</div>
+                      <div class="category">Controle</div>
+                    </div>
+                  </div>
+                </td>
+                <td>R$ 499</td>
+                <td>
+                  <div class="qty">
+                    <button><i class="bx bx-minus"></i></button>
+                    <span>1</span>
+                    <button><i class="bx bx-plus"></i></button>
+                  </div>
+                </td>
+                <td>R$ 499</td>
+                <td>
+                  <button class="remove"><i class="bx bx-x"></i></button>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="product">
+                    <img src="img/carrinho/nitendo.jpg" alt="" />
+                    <div class="info">
+                      <div class="name">Nitendo Switch</div>
+                      <div class="category">Console</div>
+                    </div>
+                  </div>
+                </td>
+                <td>R$ 4000</td>
+                <td>
+                  <div class="qty">
+                    <button><i class="bx bx-minus"></i></button>
+                    <span>1</span>
+                    <button><i class="bx bx-plus"></i></button>
+                  </div>
+                </td>
+                <td>R$ 4000</td>
+                <td>
+                  <button class="remove"><i class="bx bx-x"></i></button>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="product">
+                    <img src="img/carrinho/xbox-series-x.jpg" alt="" />
+                    <div class="info">
+                      <div class="name">xbox-series-x</div>
+                      <div class="category">Console</div>
+                    </div>
+                  </div>
+                </td>
+                <td>R$ 4500</td>
+                <td>
+                  <div class="qty">
+                    <button><i class="bx bx-minus"></i></button>
+                    <span>1</span>
+                    <button><i class="bx bx-plus"></i></button>
+                  </div>
+                </td>
+                <td>R$ 4500</td>
+                <td>
+                  <button class="remove"><i class="bx bx-x"></i></button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <aside>
+          <div class="box">
+            <header>Resumo da compra</header>
+            <div class="info">
+              <div><span>Sub-total</span><span>R$ 8.999</span></div>
+              <div><span>Frete</span><span>Gratuito</span></div>
+              <div>
+                <button>
+                  Adicionar cupom de desconto
+                  <i class="bx bx-right-arrow-alt"></i>
+                </button>
+              </div>
+            </div>
+            <footer>
+              <span>Total</span>
+              <span>R$ 8.999</span>
+            </footer>
+          </div>
+          <button onclick="exibirMensagem()">Finalizar Compra</button>
+          <div id="minhaMensagem" class="mensagem">Compra Realizada com Sucesso</div>
+        </aside>
+      </div>
+    </main>
+    <script>
+      function exibirMensagem() {
+      var mensagem = document.getElementById("minhaMensagem");
+      mensagem.classList.toggle("mostrar");
+    }
+    </script>
+  </body>
+</html>
