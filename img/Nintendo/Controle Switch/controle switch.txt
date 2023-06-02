@@ -1,0 +1,9 @@
+Design modular: Os Joy-Cons são controles modulares que podem ser acoplados aos lados do console Nintendo Switch para jogar no modo portátil, ou podem ser usados separadamente para jogar no modo mesa ou TV.
+
+Botões: Cada Joy-Con possui uma variedade de botões, incluindo os botões A, B, X e Y, direcionais, botões de ombro (L/R), botões de gatilho (ZL/ZR) e botões de sincronização.
+
+Sensor de movimento: Os Joy-Cons possuem sensores de movimento embutidos, como acelerômetros e giroscópios, que permitem capturar os movimentos do jogador durante o jogo.
+
+HD Rumble: Os Joy-Cons apresentam a tecnologia "HD Rumble", que oferece feedback tátil avançado. Ele pode simular diferentes sensações, como a vibração de um objeto se movendo na palma da mão.
+
+NFC: Cada Joy-Con possui uma área de leitura/gravação NFC na parte superior para interagir com os amiibos, figuras colecionáveis da Nintendo que desbloqueiam conteúdo em jogos compatíveis.

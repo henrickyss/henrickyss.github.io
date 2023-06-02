@@ -1,0 +1,14 @@
+PlayStation 5:
+
+CPU: Processador AMD Zen 2 de 8 núcleos a 3,5 GHz
+GPU: AMD RDNA 2 personalizada com 36 unidades de computação a 2,23 GHz
+Memória: 16 GB GDDR6
+Armazenamento interno: Unidade de estado sólido (SSD) personalizada de 825 GB
+Suporte para armazenamento externo: Porta USB para conectar dispositivos de armazenamento externo
+Resolução máxima de saída: 4K (até 120 Hz) e 8K (compatibilidade com a saída)
+Unidade de disco: Blu-ray Ultra HD 4K
+Conectividade: Wi-Fi 6, Bluetooth 5.1, USB 3.1, Ethernet
+Saída de vídeo: HDMI 2.1
+Áudio: Tecnologia de áudio 3D tempestuosa
+Dimensões: Aproximadamente 39 cm x 10,4 cm x 26 cm
+Peso: Aproximadamente 4,5 kg

@@ -1,0 +1,54 @@
+PROCESSADOR
+CPU. CPU Zen 2 personalizada de 8X Cores @ 3,6 GHz (3,4 GHz com SMT)
+
+GPU. GPU RDNA 2 personalizado de 4 TFLOPS, 20 CUs @1.565 GHz
+
+SOC Die Size. 197,05 mm2
+
+
+MEMÓRIA E ARMAZENAMENTO
+Memória. GDDR6 de 10 GB e barramento de 128 bits
+
+Largura de banda de memória. 8GB a 224 GB/s, 2GB a 56 GB/s.
+
+Armazenamento interno. SSD NVME personalizado de 512 GB
+
+Taxa de transferência de E/S. 2,4 GB/s (Raw), 4,8 GB/s (compactado, com bloco de descompressão de hardware personalizado)
+
+Armazenamento expansível. O suporte para o cartão de expansão Seagate de 1 TB para Xbox Series X|S corresponde exatamente ao armazenamento interno (vendido separadamente). Suporte para HDD externo USB 3.1 (vendido separadamente).
+
+RECURSOS DE VÍDEO
+Resolução de jogos. 1440p
+
+Meta de desempenho. Até 120 FPS
+
+Recursos HDMI. Modo automático de baixa latência. Taxa de atualização variável HDMI. AMD FreeSync.
+
+
+CAPACIDADES DE SOM
+L-PCM, até 7.1
+
+Dolby Digital 5.1
+
+DTS 5.1
+
+Dolby TrueHD com Atmos
+
+
+PORTOS E CONECTIVIDADE
+HDMI. 1 porta HDMI 2.1
+
+USB. 3 portas USB 3.1 Gen 1
+
+Sem fio. Banda dupla 802.11ac
+
+Ethernet. 802.3 10/100/1000
+
+Opções de acessórios. Rádio sem fio Xbox de banda dupla dedicado
+
+
+DESIGN
+
+Dimensões. 6,5 cm x 15,1 cm x 27,5cm
+
+Peso. 1,93 kg
